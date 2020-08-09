@@ -1,1 +1,2 @@
-# Athindu-Price-Predictor
+# Price-Predictor
+
